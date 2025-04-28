@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+
+Hey all I am trying to make a simple weather app....which uses API key to fetch the current weather .
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
